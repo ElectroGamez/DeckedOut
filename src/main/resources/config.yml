@@ -1,0 +1,7 @@
+mysql:
+  host:
+  port:
+  username:
+  password:
+  database:
+  useSSL: false
