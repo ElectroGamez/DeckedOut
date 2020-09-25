@@ -1,0 +1,13 @@
+name: DeckedOut
+version: ${project.version}
+main: deckedout.deckedout.DeckedOut
+api-version: 1.16
+prefix: Deckout
+authors: [ Wouter_de_Bruijn ]
+description: A Mincraft plugin automating the game, Deckout Out
+website: deckout.abaddongaming.eu
+commands:
+  gm:
+    description: Your description
+    usage: /gm <mode>
+    permission: deckedout.gamemode
